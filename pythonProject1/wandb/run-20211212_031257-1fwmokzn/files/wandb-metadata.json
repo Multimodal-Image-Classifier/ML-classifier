@@ -1,0 +1,28 @@
+{
+    "os": "Windows-10-10.0.18363-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-12-12T08:12:59.168488",
+    "startedAt": "2021-12-12T08:12:57.527772",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--img",
+        "640",
+        "--batch",
+        "16",
+        "--epochs",
+        "3",
+        "--data",
+        "coco128.yaml",
+        "--weights",
+        "yolov5s.pt",
+        "--cache"
+    ],
+    "state": "running",
+    "program": "D:\\pythonProject1\\yolov5\\train.py",
+    "codePath": "yolov5\\train.py",
+    "host": "DESKTOP-MTGVBUP",
+    "username": "nathan",
+    "executable": "D:\\y\\Scripts\\python.exe"
+}
